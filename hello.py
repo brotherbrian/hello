@@ -1,1 +1,1 @@
-print('hello python');
+print(2 + 6) # => 8
